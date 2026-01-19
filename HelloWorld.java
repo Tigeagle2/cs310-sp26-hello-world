@@ -21,5 +21,8 @@ public class HelloWorld {
         // v3.0
         //Hotfix implemented
     }
+    private void f4() {
+        // v4.0
+    }
 
 }
